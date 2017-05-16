@@ -1,0 +1,10 @@
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\bin\Debug\Wana Decrypt0r 2.0.exe.config
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\bin\Debug\Wana Decrypt0r 2.0.exe
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\bin\Debug\Wana Decrypt0r 2.0.pdb
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana Decrypt0r 2.0.csprojResolveAssemblyReference.cache
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana_Decrypt0r_2._0.Form1.resources
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana_Decrypt0r_2._0.Properties.Resources.resources
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana Decrypt0r 2.0.csproj.GenerateResource.Cache
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana Decrypt0r 2.0.exe
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana Decrypt0r 2.0.pdb
+G:\VSworkspace\Wana Decrypt0r 2.0\Wana Decrypt0r 2.0\obj\Debug\Wana_Decrypt0r_2._0.Form2.resources
