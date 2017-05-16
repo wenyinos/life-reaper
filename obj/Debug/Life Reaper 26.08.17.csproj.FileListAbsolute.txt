@@ -9,12 +9,12 @@ C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana_Decrypt0r_2._0.
 C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana_Decrypt0r_2._0.Form2.resources
 C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana_Decrypt0r_2._0.Properties.Resources.resources
 C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Life Reaper 26.08.17.csproj.GenerateResource.Cache
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana Decrypt0r 2.0.exe
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana Decrypt0r 2.0.pdb
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Wana Decrypt0r 2.0.exe.config
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Wana Decrypt0r 2.0.exe.manifest
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Wana Decrypt0r 2.0.application
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Wana Decrypt0r 2.0.exe
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Wana Decrypt0r 2.0.pdb
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana Decrypt0r 2.0.exe.manifest
-C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Wana Decrypt0r 2.0.application
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Life Reaper 26.08.17.exe.manifest
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Life Reaper 26.08.17.exe
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Life Reaper 26.08.17.pdb
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Life Reaper 26.08.17.exe.config
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Life Reaper 26.08.17.exe.manifest
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Life Reaper 26.08.17.application
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Life Reaper 26.08.17.exe
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\bin\Debug\Life Reaper 26.08.17.pdb
+C:\Users\Wenyin Root\Desktop\Life Reaper 26.08.17\obj\Debug\Life Reaper 26.08.17.application

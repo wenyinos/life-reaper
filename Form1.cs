@@ -76,83 +76,83 @@ namespace Wana_Decrypt0r_2._0
             TimeSpan dnow = DateTime.Now.Subtract(d_now);
             if (dnow.Seconds.ToString() == "3")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._90;
+                pictureBox3.Image = _0.Properties.Resources._90;
             }
             if (dnow.Seconds.ToString() == "6")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._80;
+                pictureBox3.Image = _0.Properties.Resources._80;
             }
             if (dnow.Seconds.ToString() == "9")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._70;
+                pictureBox3.Image = _0.Properties.Resources._70;
             }
             if (dnow.Seconds.ToString() == "12")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._60;
+                pictureBox3.Image = _0.Properties.Resources._60;
             }
             if (dnow.Seconds.ToString() == "15")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._50;
+                pictureBox3.Image = _0.Properties.Resources._50;
             }
             if (dnow.Seconds.ToString() == "18")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._40;
+                pictureBox3.Image = _0.Properties.Resources._40;
             }
             if (dnow.Seconds.ToString() == "21")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._30;
+                pictureBox3.Image = _0.Properties.Resources._30;
             }
             if (dnow.Seconds.ToString() == "24")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._20;
+                pictureBox3.Image = _0.Properties.Resources._20;
             }
             if (dnow.Seconds.ToString() == "27")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._10;
+                pictureBox3.Image = _0.Properties.Resources._10;
             }
             if (dnow.Seconds.ToString() == "30")
             {
-                pictureBox3.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._0;
+                pictureBox3.Image = _0.Properties.Resources._0;
             }
             if (dnow.Seconds.ToString() == "30")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._90;
+                pictureBox4.Image = _0.Properties.Resources._90;
             }
             if (dnow.Minutes.ToString() == "1")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._80;
+                pictureBox4.Image = _0.Properties.Resources._80;
             }
             if (dnow.Minutes.ToString() == "2")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._70;
+                pictureBox4.Image = _0.Properties.Resources._70;
             }
             if (dnow.Minutes.ToString() == "3")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._60;
+                pictureBox4.Image = _0.Properties.Resources._60;
             }
             if (dnow.Minutes.ToString() == "4")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._50;
+                pictureBox4.Image = _0.Properties.Resources._50;
             }
             if (dnow.Minutes.ToString() == "5")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._40;
+                pictureBox4.Image = _0.Properties.Resources._40;
             }
             if (dnow.Minutes.ToString() == "6")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._30;
+                pictureBox4.Image = _0.Properties.Resources._30;
             }
             if (dnow.Minutes.ToString() == "7")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._20;
+                pictureBox4.Image = _0.Properties.Resources._20;
             }
             if (dnow.Minutes.ToString() == "8")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._10;
+                pictureBox4.Image = _0.Properties.Resources._10;
             }
             if (dnow.Minutes.ToString() == "9")
             {
-                pictureBox4.Image = global::Wana_Decrypt0r_2._0.Properties.Resources._0;
+                pictureBox4.Image = _0.Properties.Resources._0;
             }
         }
 
